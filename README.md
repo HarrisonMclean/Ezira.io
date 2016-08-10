@@ -8,8 +8,21 @@ Posts can be sorted by user controlled and fine tuned user created formulas. Use
 Users can make profiles containing any identity information they wish, and link in all of their other soial media accounts to crosspost to Ezira. Users can make pseudonyms for posting without association with thier regular identity. Users can also post anonymously. These 3 account types can be easily switched between for posting with as much or as little reputational association as is desired. 
 
 Cryptocurrency types - 
-Zira - Blockchain issued base currency - 50% inflation per year, issued as the following (10% to the reward pool for content creators, miners and witnesses, and the remaining 40% to holders of MegaZira and UltraZira, into the Ezira Vesting Pool)
-Reward pool is issued as the following (20% to miners and block witnesses, 10% to liquidity providers on the internal market, 10% to 
+
+Zira - Blockchain issued base currency - 50% inflation per year, issued as the following 
+10% to the reward pool
+40% to holders of MegaZira and UltraZira, into the Ezira Vesting Pool
+
+Reward pool is issued as the following - 
+10% to miners and block witnesses
+5% to liquidity providers on the internal market
+10% to developer pool, awarded for production of applications, bug fixing
+Overhead Rewards are issued as 25% UltraZira, 50% MegaZira, and 25% Zira
+
+75% to content creators and curators (70% to creator, 20% to curators, 10% to commenters)
+Content creator rewards are all issued as 25% Mega Zira, 25% Zira, 50% Zira Smartcoin of users choice
+
+
 MegaZira - Upgraded Zira that vests for a period of 1 year, must be withdrawn to Zira over 52 weeks, accumulates block issued Zira return proportional to balance. Zira pool that backs MegaZira expands from block issuance. Increases voting influence.
 UltraZira - Upgraded Zira that vests for 5 years, must be withdrawn to Zira over 260 weeks. Increases voting influence by 2 times the equivalent amount of MegaZira. Issues twice the amount of return on investment as MegaZira. ROI issued as 50% MegaZira, and 50% UltraZira
 
